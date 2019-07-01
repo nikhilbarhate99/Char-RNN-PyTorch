@@ -1,6 +1,6 @@
 # Char RNN PyTorch
 
-Minimalist code for character-level language modelling using LSTM in PyTorch. The RNN is trained to predict next letter in a given text sequence. The trained model can then be used to generate a new text sequence resembling the original data.
+Minimalist code for character-level language modelling using Multi-layer Recurrent Neural Networks (LSTM) in PyTorch. The RNN is trained to predict next letter in a given text sequence. The trained model can then be used to generate a new text sequence resembling the original data.
 
 ## Requirements
 
