@@ -20,7 +20,7 @@ To test a preTrained network (trained on Shakespeare.txt in the data folder) run
 
 ## Samples
 
-**Shakespeare Dataset (~ 15 epochs):**
+**Shakespeare Dataset (~ 15 epochs) :**
 ```
 DOCSER:
 What, will thy fond law?
@@ -49,7 +49,9 @@ FLUELLEN:
 Go tell you.
 ```
 
-**Sherlock Holmes Dataset (~ 15 epochs):**
+-----------------------------------------------------------------
+
+**Sherlock Holmes Dataset (~ 15 epochs) :**
 ```
  Mr. Holmes had drawn up and again so brick, at west who closed upon
  the loud broken pallow and a cabmon ta the chair that we had fired
