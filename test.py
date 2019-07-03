@@ -11,8 +11,12 @@ def test():
     hidden_size = 512   # size of hidden state
     num_layers = 3      # num of layers in LSTM layer stack
     op_seq_len = 1000   # total num of characters in output test sequence
+    
     load_path = "./preTrained/CharRNN_shakespeare.pth"
     data_path = "./data/shakespeare.txt"
+    
+#    load_path = "./preTrained/CharRNN_sherlock.pth"
+#    data_path = "./data/sherlock.txt"
     #########################################
     
     # load the text file
