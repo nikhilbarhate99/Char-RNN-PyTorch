@@ -16,7 +16,7 @@ Trained and tested on:
 To train a new network run `CharRNN.py`. If you are using custom data, change the `data_path` and `save_path` variables accordingly. To keep the code simple the batch size is one, so the training procedure is a bit slow. The average loss and a sample from the model is printed after every epoch.
 
 ### Testing
-To test a preTrained network (~15 epochs) run `test.py`. The training dataset is required for testing too for creating vocabulary dictionary, and also for sampling a random small (10 letters) text sequence to begin generation.
+To test a preTrained network (~15 epochs) run `test.py`. The training dataset is required for testing, to create vocabulary dictionary, and also for sampling a random small (10 letters) text sequence to begin generation.
 
 ## Samples
 
