@@ -40,7 +40,7 @@ def train():
     print("Data has {} characters, {} unique".format(data_size, vocab_size))
     print("----------------------------------------")
     
-    # char to index and idex to char maps
+    # char to index and index to char maps
     char_to_ix = { ch:i for i,ch in enumerate(chars) }
     ix_to_char = { i:ch for i,ch in enumerate(chars) }
     
